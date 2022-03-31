@@ -14,14 +14,6 @@
 </ul>
 
 #### Steps to Use:
----
-
-- Go through the website
-
-```
-Click Here: https://ambitious-glacier-0121b3810.1.azurestaticapps.net/
-
----
 
 - Download or clone the repository
 
