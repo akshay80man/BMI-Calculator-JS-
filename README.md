@@ -14,11 +14,17 @@
 </ul>
 
 #### Steps to Use:
+- Go through the webapp
+
+```
+https://ambitious-glacier-0121b3810.1.azurestaticapps.net/
+```
+<h6> OR </h6>
 
 - Download or clone the repository
 
 ```
-git clone https://github.com/akshay80man/BMI-Calculator-JS-
+https://github.com/akshay80man/BMI-Calculator-JS-
 ```
 
 - Go to the directory
@@ -26,4 +32,9 @@ git clone https://github.com/akshay80man/BMI-Calculator-JS-
 - Start Calculatings!
 
 <h3> Demo </h3>
+<h5> BMI Calculator when you open the webapp</h5>
+<img src="https://github.com/akshay80man/BMI-Calculator-JS-/blob/main/bmi%20calculator%20without%20value.png"/>
+<h5> After putting Value (Weight in KG | Height in CM)</h5>
+<img src="https://github.com/akshay80man/BMI-Calculator-JS-/blob/main/BMI%20calculator%20with%20value.png"/>
+<h5> BMI value for a given input, now match with the given table </h5> 
 <img src="https://github.com/ayushseth07/Web-dev-mini-projects/blob/patch/BMI%20Calculator%20(JS)/snap.PNG"/>
